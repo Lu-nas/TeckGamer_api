@@ -1,4 +1,4 @@
-# 🎮 TeckGamer API
+# TeckGamer API
 
 API REST desenvolvida em Java com Spring Boot para o gerenciamento de uma loja online de games (fictícia), permitindo cadastro e manutenção de **games**, **categorias** e **produtos**, com operações CRUD completas.
 
@@ -7,7 +7,7 @@ O projeto foi construído com foco em **boas práticas de backend**, separação
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - CRUD completo de **Games**
 - CRUD completo de **Categorias**
@@ -18,7 +18,7 @@ O projeto foi construído com foco em **boas práticas de backend**, separação
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - Java 17
 - Spring Boot
@@ -30,7 +30,7 @@ O projeto foi construído com foco em **boas práticas de backend**, separação
 
 ---
 
-## 🧱 Arquitetura do Projeto
+## Arquitetura do Projeto
 
 O projeto segue uma arquitetura em camadas:
 
